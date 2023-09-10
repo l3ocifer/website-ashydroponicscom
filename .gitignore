@@ -1,0 +1,13 @@
+    # React
+    ashydroponicscom/node_modules/
+    ashydroponicscom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
